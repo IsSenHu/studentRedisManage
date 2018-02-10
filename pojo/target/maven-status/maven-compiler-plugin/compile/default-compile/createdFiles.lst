@@ -1,0 +1,12 @@
+ecjtu\husen\pojo\vo\PermissionVO.class
+ecjtu\husen\pojo\vo\Gender.class
+ecjtu\husen\pojo\po\PermissionPO.class
+ecjtu\husen\pojo\po\UserPO.class
+ecjtu\husen\pojo\vo\RoleVO.class
+ecjtu\husen\pojo\converter\GenderConverter.class
+ecjtu\husen\pojo\converter\UserStatuConverter.class
+ecjtu\husen\pojo\vo\UserRoleVO.class
+ecjtu\husen\pojo\vo\UserStatu.class
+ecjtu\husen\pojo\po\UserRolePO.class
+ecjtu\husen\pojo\vo\UserVO.class
+ecjtu\husen\pojo\po\RolePO.class
